@@ -3,7 +3,7 @@ import os
 from ultralytics import YOLO
 
 
-model = YOLO(r"C:\Users\reini\OneDrive\Desktop\Ai\messing\prakse\1 job\best (1).pt")
+model = YOLO(r"best (1).pt")
 
 
 image_folder = "images"
